@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "239706590745",
+    "firebase_url": "https://efr-cloud.firebaseio.com",
+    "project_id": "efr-cloud",
+    "storage_bucket": "efr-cloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239706590745:android:4ee2a8e1b1429442",
+        "android_client_info": {
+          "package_name": "efr.cloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239706590745-a2bri7ar9fn563ect1u6mtel5nu0hofd.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "239706590745-7bdhr8tu5u1q7811cs6tpfmkq1ds3m0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "efr.cloud",
+            "certificate_hash": "5cfeab2886c628310a40d315283aa9df861326b8"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgasKH_gXZuX4Wh2daOhAMs4VRQrqS3qE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239706590745-a2bri7ar9fn563ect1u6mtel5nu0hofd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
